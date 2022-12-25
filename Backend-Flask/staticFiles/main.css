@@ -1,6 +1,10 @@
 body {
-      font-family: Arial, Helvetica, sans-serif;
-      background-image: url(/react-demo/src/assets/img/bg.png);
+  font-family: Arial, Helvetica, sans-serif;     
+  background-image: url(/src/assets/img/sky-background-nature-blue.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   }
 form {border: 3px solid #f1f1f1; width: 50%; margin: 0 auto;}
 
